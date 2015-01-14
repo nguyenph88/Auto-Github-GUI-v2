@@ -1,0 +1,22 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-01-14T19:28:00.301Z] GhostDriver - Main - running on port 52718
+[INFO  - 2015-01-14T19:28:01.816Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-01-14T19:28:01.816Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.customHeaders:  - {}
+[INFO  - 2015-01-14T19:28:01.817Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-01-14T19:28:01.817Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 745e19f0-9c23-11e4-9e5c-b70077c26a40
+[ERROR - 2015-01-14T19:28:02.697Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - msg: TypeError: 'undefined' is not a function (evaluating 'Array.prototype.forEach.call.bind(Array.prototype.forEach)')
+[ERROR - 2015-01-14T19:28:02.697Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - stack:
+  (anonymous function) (https://assets-cdn.github.com/assets/frameworks-87b2616c03e3e9e84d9d17109410789222438c5b882d9b62aec5b0f17f3adbbb.js:29)
+  (anonymous function) (https://assets-cdn.github.com/assets/frameworks-87b2616c03e3e9e84d9d17109410789222438c5b882d9b62aec5b0f17f3adbbb.js:29)
+[ERROR - 2015-01-14T19:28:02.717Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2015-01-14T19:28:02.717Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - stack:
+  (anonymous function) (https://assets-cdn.github.com/assets/github-57831d568d6faabe301b3bb740967e1de935ca87f140b37bf51792a6bd47a95c.js:1)
+  (anonymous function) (https://assets-cdn.github.com/assets/github-57831d568d6faabe301b3bb740967e1de935ca87f140b37bf51792a6bd47a95c.js:1)
+[ERROR - 2015-01-14T19:28:03.661Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - msg: TypeError: 'undefined' is not a function (evaluating 'Array.prototype.forEach.call.bind(Array.prototype.forEach)')
+[ERROR - 2015-01-14T19:28:03.661Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - stack:
+  (anonymous function) (https://assets-cdn.github.com/assets/frameworks-87b2616c03e3e9e84d9d17109410789222438c5b882d9b62aec5b0f17f3adbbb.js:29)
+  (anonymous function) (https://assets-cdn.github.com/assets/frameworks-87b2616c03e3e9e84d9d17109410789222438c5b882d9b62aec5b0f17f3adbbb.js:29)
+[ERROR - 2015-01-14T19:28:03.667Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2015-01-14T19:28:03.667Z] Session [745e19f0-9c23-11e4-9e5c-b70077c26a40] - page.onError - stack:
+  (anonymous function) (https://assets-cdn.github.com/assets/github-57831d568d6faabe301b3bb740967e1de935ca87f140b37bf51792a6bd47a95c.js:1)
+  (anonymous function) (https://assets-cdn.github.com/assets/github-57831d568d6faabe301b3bb740967e1de935ca87f140b37bf51792a6bd47a95c.js:1)
