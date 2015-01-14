@@ -3,6 +3,8 @@ Automating the process of following, staring and forking a specific user/repo to
 
 There is another repo for autogithub on my repo which helps the user to auto push and commit their changes everyday to make their profile look more colorful :D Link here: https://github.com/nguyenph88/AutoGithub
 
+![Image](/demo.png?raw=true)
+
 Auto Github GUI
 =======
 This tool will automate the process of registering new user, then follow a specific user, star/fork a list of repos (that are of that user only).
